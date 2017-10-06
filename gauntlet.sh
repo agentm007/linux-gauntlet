@@ -27,3 +27,6 @@ done
 mkdir $directory\6
 chattr +i $directory\6
 
+#selinux folder permissions
+mkdir $directory\7
+
